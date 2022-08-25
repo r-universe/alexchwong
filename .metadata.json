@@ -4,5 +4,8 @@
   },
   {
     "package": "ompBAM"
+  },
+  {
+    "package": "SpliceWiz"
   }
 ]

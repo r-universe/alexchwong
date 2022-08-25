@@ -13,3 +13,8 @@
 	url = https://github.com/alexchwong/ompbam
 	shallow = true
 	registered = true
+[submodule "SpliceWiz"]
+	path = SpliceWiz
+	url = https://github.com/alexchwong/splicewiz
+	shallow = true
+	registered = true
