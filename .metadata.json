@@ -1,5 +1,11 @@
 [
   {
+    "package": "NxtIRFcore"
+  },
+  {
+    "package": "ompBAM"
+  },
+  {
     "package": "SpliceWiz"
   }
 ]

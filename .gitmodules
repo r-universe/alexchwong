@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NxtIRFcore"]
+	path = NxtIRFcore
+	url = https://github.com/alexchwong/nxtirfcore
+	shallow = true
+	registered = true
+[submodule "ompBAM"]
+	path = ompBAM
+	url = https://github.com/alexchwong/ompbam
+	shallow = true
+	registered = true
 [submodule "SpliceWiz"]
 	path = SpliceWiz
 	url = https://github.com/alexchwong/splicewiz
